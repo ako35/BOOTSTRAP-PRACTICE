@@ -1,0 +1,72 @@
+
+
+.topbar ul{
+    list-style-type: none;
+}
+
+.topbar ul li{
+    line-height: 3rem;
+}
+
+.topbar ul li a{
+    text-decoration: none;
+}
+
+.topbar ul li a i{
+    margin-right: 9px;
+    font-size: 1.5rem;
+}
+
+.navbar .navbar-nav li a{
+    border-radius: 50px;
+}
+
+.navbar .navbar-nav li a{
+    font-size: 1.5rem;
+}
+
+.navbar .navbar-nav li a:hover{
+    background-color:rgb(255,193,7);
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption h5{
+    color: black;
+    font-size: 3rem;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption p{
+    color: rgb(15, 15, 15,0.7);
+    font-size: 1.5rem;
+    font-weight:500;
+}
+
+.carousel .carousel-inner .carousel-item {
+    position: relative;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption{
+    position: absolute;
+    transform:translateY(-50%);
+}
+
+.why-us{
+    position: relative;
+    top: -80px;
+    z-index: 2;
+}
+
+.why-us .card .card-body i{
+    color: red;
+}
+
+.why-us .card .card-body{
+    text-align: center;
+    background-color: rgb(255,193,7);
+    border-radius: 9px;
+}
+
+.why-us .card .card-body h5{
+    color: black;
+    
+}
+
